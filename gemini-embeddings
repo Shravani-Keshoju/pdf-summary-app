@@ -1,0 +1,8 @@
+Gemini Embeddings:
+-------------------
+What is semantic search ?
+understanding the meaning and intent behind a search query, 
+
+User Query → Generate Related Queries → Wikipedia Search → Extract Content → Generate Embeddings → Rerank by Similarity → Return Best Results
+
+what is smiliar search? 
